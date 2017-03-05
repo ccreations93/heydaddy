@@ -175,10 +175,10 @@ $menu = (isset($_GET['menu']) ? $_GET['menu'] : null);
 			<div class="row row-padded">
 				<div class="col-md-12 text-center">
 					<p class="fh5co-social-icons">
-						<a href="#"><i class="icon-twitter"></i></a>
-						<a href="#"><i class="icon-facebook"></i></a>
-						<a href="#"><i class="icon-instagram"></i></a>
-						<a href="#"><i class="icon-pinterest"></i></a>
+						<a href="https://twitter.com/hey_daddy_"><i class="icon-twitter"></i></a>
+						<a href="https://www.facebook.com/heydaddyhome/"><i class="icon-facebook"></i></a>
+						<!--- <a href="#"><i class="icon-instagram"></i></a>
+						<a href="#"><i class="icon-pinterest"></i></a> --->
 					</p>
 					<p><small>Hey Daddy! &copy;2017. All Rights Reserved. <br>Designed by: <a href="http://freehtml5.co/" target="_blank">Stephanie and Ng Ching Hui</a> | Images by: <a href="http://pexels.com" target="_blank">Pexels</a>, <a href="http://pixabay.com" target="_blank">Pixabay</a> </small></p>
 				</div>
